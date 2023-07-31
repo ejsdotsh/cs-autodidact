@@ -22,8 +22,11 @@ generally following MIT's [6-3 degree chart](http://catalog.mit.edu/degree-chart
 
 ### semester 2
 
-- 6.1900 - Introduction to Low-level Programming in C and Assembly
-  - [OCW 2010 6.087IAP](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/)
+- 6.19
+  - 6.1900 - Introduction to Low-level Programming in C and Assembly
+    - [OCW 2010 6.087IAP](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/)
+  - 6.1910 - Computation Structures
+    - [OCW 2017 6.004](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
 - 6.1200 - Mathematics for Computer Science
   - [OCW 2015 6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
 - 18.02 - Calculus 2
@@ -39,8 +42,6 @@ generally following MIT's [6-3 degree chart](http://catalog.mit.edu/degree-chart
   - <https://py.mit.edu/>
 - 6.1020 - Software Construction
   - [OCW 2016 6.005](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/)
-- 6.1910 - Computation Structures
-  - [OCW 2017 6.004](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
 - 18.06 - Linear Algebra
   - [OCW 2011 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
