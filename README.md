@@ -2,60 +2,82 @@
 
 documenting my self-education journey in Computer Science
 
-## learning path
+`autodidact`, from oxfordgoogle:
 
-generally following MIT's [6-3 degree chart](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) and utilizing [OCW](https://ocw.mit.edu/) to help guide/track my first few *"semesters"*
+```text
+au·to·di·dact
+/ˌôdəˈdīˌdak(t),ˌädəˈdīˌdak(t)/
 
-### semester 1
+noun
+noun: autodidact; plural noun: autodidacts; noun: auto-didact; plural noun: auto-didacts
 
-- review and optimize my tools
-  - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- 6.001 - Structure And Interpretation Of Computer Programs
-  - [OCW 2005 6.001](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
-  - [alternate] 6.100A - Introduction to Computer Science Programming in Python
-    - [OCW 2016 6.0001](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-    - [OCW 2016 6.0002](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-- 18.01 - Calculus 1
-  - [OCW 2020 18.01](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/)
-- 8.011 - Physics 1
-  - [OCW 2016 8.01SC](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
+  a self-taught person.
 
-### semester 2
+Origin
+  mid 16th century (as autodidacton ): via Latin from Greek autodidaktos ‘self-taught’,
+  from autos ‘self’ + didaskein ‘teach’.
+```
 
-- 6.19
-  - 6.1900 - Introduction to Low-level Programming in C and Assembly
-    - [OCW 2010 6.087IAP](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/)
-  - 6.1910 - Computation Structures
-    - [OCW 2017 6.004](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
-- 6.1200 - Mathematics for Computer Science
-  - [OCW 2015 6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
-- 18.02 - Calculus 2
-  - [OCW 2010 18.02SC](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
-- 8.021 - Physics 2
-  - [OCW 2019 8.02](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/)
+Goal:
 
-### semester 3
+- a [Master of Science in Computer Science](https://www.coursera.org/degrees/ms-computer-science-boulder) from the
+  University of Colorado at Boulder
 
-- CS61C - Machine Structures
-  - [UC Berkeley semester archives](https://inst.eecs.berkeley.edu/~cs61c/archives.html)
-- 6.1010 - Fundamentals of Programming
-  - <https://py.mit.edu/>
-- 6.1020 - Software Construction
-  - [OCW 2016 6.005](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/)
-- 18.06 - Linear Algebra
-  - [OCW 2011 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+full list of required courses:
 
-### semester 4+
+- [MS CS academics](https://www.coursera.org/degrees/ms-computer-science-boulder/academics)
 
-- 6.1210 - Introduction to Algorithms
-  - [OCW 2011 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
-  - [OCW 2020 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
-- 6.1220 - Design and Analysis of Algorithms
-- 6.1800 - Computer Systems Engineering
-- 6.1400 - Computability and Complexity Theory
-- 6.5250 - Distributed Algorithms
-- 6.5820 - Computer Networks
-- 6.5840 - Distributed Computer Systems Engineering
+## Learning path
+
+### Maths refreshers
+
+- [Algebra: Elementary to Advanced Specialization](https://www.coursera.org/specializations/algebra-elementary-to-advanced)
+- [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling)
+- [Integral Calculus through Data and Modelling Specialization](https://www.coursera.org/specializations/integral-calculus-data-modeling)
+- [Intro to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
+- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+
+### Fundamentals of Computing/Programming Languages
+
+Programming languages:
+
+- Guile Scheme
+- Java
+- Python3
+
+Coursework/books:
+
+- Rice University's [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
+- Princeton's [Programming With A Purpose, in Java](https://www.coursera.org/learn/cs-programming-java)
+  - [Programming With A Purpose, in Python](https://introcs.cs.princeton.edu/python/home/)
+- MIT's [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
+- [Composing Programs](https://www.composingprograms.com/)
+
+### Algorithms
+
+Programming languages:
+
+- Java
+- Python3
+
+Coursework/books:
+
+- Princeton's [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
+- Princeton's [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+- MIT's [Introduction to Algorithms](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+
+### Operating Systems/Systems Programming
+
+Programming languages:
+
+- C
+- Go
+- Rust
+
+Coursework/books:
+
+- [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
+- Codio's [Introduction to Operating Systems Specialization](https://www.coursera.org/specializations/codio-introduction-operating-systems)
 
 ## references and inspiration
 
@@ -65,11 +87,3 @@ generally following MIT's [6-3 degree chart](http://catalog.mit.edu/degree-chart
 - [A Self-learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 - [OSSU computer science curriculum](https://github.com/ossu/computer-science)
 - [10 Books for the Self-Taught Computer Scientist](https://josephchancey.medium.com/10-books-for-the-self-taught-computer-scientist-1cd602d503a9)
-
-### textbooks
-
-- [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
-- [Composing Programs](https://www.composingprograms.com/)
-- [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
-- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
-- [Introduction to Algorithms](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
