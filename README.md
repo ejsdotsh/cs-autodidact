@@ -72,10 +72,13 @@ Programming languages:
 
 - C
 - Go
+- Java
 - Rust
 
 Coursework/books:
 
+- [Writing a Compiler in Go](https://compilerbook.com/)
+- Robert Nystrom's [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
 - Codio's [Introduction to Operating Systems Specialization](https://www.coursera.org/specializations/codio-introduction-operating-systems)
 
