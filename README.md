@@ -27,6 +27,10 @@ full list of required courses:
 
 - [MS CS academics](https://www.coursera.org/degrees/ms-computer-science-boulder/academics)
 
+Alternate degree programs:
+
+- [MSc Computer Science](https://www.coursera.org/degrees/msc-computer-science-heriot-watt) from Heriot Watt
+
 ## Learning path
 
 ### Maths refreshers
@@ -81,6 +85,18 @@ Coursework/books:
 - Robert Nystrom's [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
 - Codio's [Introduction to Operating Systems Specialization](https://www.coursera.org/specializations/codio-introduction-operating-systems)
+
+### Supplementary learning
+
+Leadership and management:
+
+- [Neuroscience of Leadership](https://www.coursera.org/specializations/neuroscience-of-leadership-leading-with-your-brain)
+- [ME Engineering Management](https://www.coursera.org/degrees/me-engineering-management-boulder/admissions) from UC Boulder
+
+Technology Entrepreneurship:
+
+- [Technology Entrepreneurship Specialization](https://www.coursera.org/specializations/technology-entrepreneurship) from
+  UC Boulder
 
 ## references and inspiration
 
