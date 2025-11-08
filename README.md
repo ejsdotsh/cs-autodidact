@@ -45,12 +45,18 @@ Alternate degree programs:
 
 Programming languages:
 
-- Guile Scheme
-- Java
+- C
+- Go
+- C++
+- Rust
 - Python3
+- Java
+- Guile Scheme
 
 Coursework/books:
 
+- UC Santa Cruz [C, Go, C++](https://www.coursera.org/specializations/c-go-c-plus-plus)
+- [Rust Programming Specialization](https://www.coursera.org/specializations/rust-programming)
 - Rice University's [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
 - Princeton's [Programming With A Purpose, in Java](https://www.coursera.org/learn/cs-programming-java)
   - [Programming With A Purpose, in Python](https://introcs.cs.princeton.edu/python/home/)
@@ -97,6 +103,12 @@ Technology Entrepreneurship:
 
 - [Technology Entrepreneurship Specialization](https://www.coursera.org/specializations/technology-entrepreneurship) from
   UC Boulder
+
+Communication:
+
+- [Good with Words](https://www.coursera.org/specializations/good-with-words) Writing and Editing Specialization
+- [Technical Commuication](https://www.coursera.org/specializations/technical-communication) Specialization
+- [Creative Essay Writing](https://www.coursera.org/specializations/creative-essay-writing-explore-the-personal-and-powerful) Explore the Personal & Powerful
 
 ## references and inspiration
 
