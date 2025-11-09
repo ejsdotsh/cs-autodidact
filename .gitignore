@@ -1,0 +1,25 @@
+# modified Allowlisting gitignore
+
+# Ignore everything
+*
+
+# But not these files...
+# ...even if they are in subdirectories
+!*/
+
+!/.gitignore
+!LICENSE
+!Makefile
+!README.md
+
+# !dprint.json
+
+!docs/**
+!scripts/*
+
+!**/*.md
+!**/*.c
+!**/*.h
+!**/*.go
+!**/go.mod
+!**/go.sum
