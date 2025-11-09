@@ -23,3 +23,6 @@
 !**/*.go
 !**/go.mod
 !**/go.sum
+
+# always ignore
+a.out
